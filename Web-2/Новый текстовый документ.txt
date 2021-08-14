@@ -1,0 +1,13 @@
+
+.first-line{
+	text-transform: uppercase lowercase;
+}
+
+uppercase- верхний регистр
+lowercase- нижний регистр
+
+row- по умолчанию с лева на право
+column- снизу вверх
+down - 
+
+border: 1px solid #fff; - подчеркнули границу
